@@ -22,6 +22,4 @@ AI Model – Ollama
 
 Libraries – NLTK, SpaCy, Pandas, NumPy, OpenAI/Ollama API
 
-Frameworks – Flask / FastAPI for backend, React.js for frontend (optional)
 
-Database – MongoDB / PostgreSQL for storing resumes
