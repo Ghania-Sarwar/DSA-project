@@ -9,7 +9,7 @@ This project leverages Data Structures and Algorithms (DSA) concepts along with 
 
 ✅ Resume Parsing – Extracts candidate information (name, contact, skills, experience, education).
 ✅ Keyword Matching – Uses Sets to efficiently compare resumes with job descriptions.
-✅ Gemini AI Model – AI-driven candidate evaluation and recommendation.
+✅ Gemini AI Model – AI-driven candidate evaluation and recommendation. 
 
 🛠 Tech Stack
 
